@@ -1,0 +1,32 @@
+Runs: 30
+
+Population_size: 50  <<-- Alterar
+
+Max_generations: 50  <<-- Alterar
+
+# --------------------------------
+
+Selection: tournament  <<-- Alterar
+
+Tournament_size: 2  <<-- Alterar
+
+# --------------------------------
+
+Recombination: pmx  <<-- Alterar
+
+Recombination_probability: 0.6 <<-- Alterar
+
+# --------------------------------
+
+Mutation: insert, mutation2, mutation3
+
+Mutation_probability: 0.01, 0.02, 0.03, 0.04, 0.05, 0.06, 0.07, 0.08, 0.09
+
+# --------------------------------
+
+Problem_file: data_set_4.txt
+
+# --------------------------------
+
+Statistic: BestIndividual
+Statistic: BestAverage

@@ -1,0 +1,32 @@
+Runs: 30
+
+Population_size: 150
+
+Max_generations: 5
+
+# --------------------------------
+
+Selection: tournament
+
+Tournament_size: 2, 4, 6, 8, 10
+
+# --------------------------------
+
+Recombination: pmx
+
+Recombination_probability: 0.7
+
+# --------------------------------
+
+Mutation: insert
+
+Mutation_probability: 0.025
+
+# --------------------------------
+
+Problem_file: data_set_2.txt 
+
+# --------------------------------
+
+Statistic: BestIndividual
+Statistic: BestAverage

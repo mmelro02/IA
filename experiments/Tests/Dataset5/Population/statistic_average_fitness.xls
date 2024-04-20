@@ -1,0 +1,26 @@
+Population size:	Max generations: 	Selection: 	Recombination: 	Mutation:		Average:	StdDev:
+50	50	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		551.9333333333333	37.411168861124295
+50	100	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		521.4	34.176600181995866
+50	150	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		498.06666666666666	34.47311351699402
+50	200	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		481.46666666666664	31.932985384325647
+50	250	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		466.1333333333333	30.996487256175048
+100	50	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		499.0	35.303446479534166
+100	100	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		465.6	33.20803115713627
+100	150	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		441.6666666666667	37.69733264952428
+100	200	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		429.46666666666664	35.98493511951293
+100	250	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		418.06666666666666	34.48084814630998
+200	50	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		443.46666666666664	31.2407141759311
+200	100	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		415.06666666666666	31.815020910814372
+200	150	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		397.8	32.53039604226586
+200	200	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		387.53333333333336	32.02367180002249
+200	250	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		379.0	30.693104545918235
+400	50	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		401.4	26.453229166461576
+400	100	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		369.0	29.78478358714955
+400	150	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		357.4	28.636340548331244
+400	200	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		349.0	26.87129819466612
+400	250	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		344.06666666666666	25.930591114657517
+500	50	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		390.93333333333334	27.922432240444643
+500	100	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		359.53333333333336	26.465994953692725
+500	150	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		346.4	24.250910635822866
+500	200	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		340.6666666666667	22.82883167303039
+500	250	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		337.8	23.193964732231528

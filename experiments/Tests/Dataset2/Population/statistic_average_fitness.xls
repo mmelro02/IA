@@ -1,0 +1,26 @@
+Population size:	Max generations: 	Selection: 	Recombination: 	Mutation:		Average:	StdDev:
+pop 50	ger 5	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		22.667	1.0749677
+pop 50	ger 30	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		22.600	0.916515139
+pop 50	ger 50	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		22.600	0.916515139
+pop 50	ger 75	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		22.600	0.916515139
+pop 50	ger 100	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		22.600	0.916515139
+pop 80	ger 5	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		22.267	0.679869268
+pop 80	ger 30	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		22.267	0.679869268
+pop 80	ger 50	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		22.267	0.679869268
+pop 80	ger 75	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		22.267	0.679869268
+pop 80	ger 100	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		22.267	0.679869268
+pop 100	ger 5	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		22.133	0.498887652
+pop 100	ger 30	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		22.133	0.498887652
+pop 100	ger 50	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		22.133	0.498887652
+pop 100	ger 75	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		22.133	0.498887652
+pop 100	ger 100	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		22.133	0.498887652
+pop 150	ger 5	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		22.000	0
+pop 150	ger 30	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		22.000	0
+pop 150	ger 50	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		22.000	0
+pop 150	ger 75	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		22.000	0
+pop 150	ger 100	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		22.000	0
+pop 200	ger 5	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		22.000	0
+pop 200	ger 30	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		22.000	0
+pop 200	ger 50	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		22.000	0
+pop 200	ger 75	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		22.000	0
+pop 200	ger 100	Tournament selection(4)	PMX recombination (0.7)	Insert Mutation (0.025)		22.000	0

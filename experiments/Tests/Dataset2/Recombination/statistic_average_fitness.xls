@@ -1,0 +1,28 @@
+Population size:	Max generations: 	Selection: 	Recombination: 	Mutation:		Average:	StdDev:
+150	5	Tournament selection(2)	PMX recombination (0.1)	Insert Mutation (0.025)		22.2	0.6
+150	5	Tournament selection(2)	PMX recombination (0.2)	Insert Mutation (0.025)		22.06666667	0.359010987
+150	5	Tournament selection(2)	PMX recombination (0.3)	Insert Mutation (0.025)		22.13333333	0.498887652
+150	5	Tournament selection(2)	PMX recombination (0.4)	Insert Mutation (0.025)		22	0
+150	5	Tournament selection(2)	PMX recombination (0.5)	Insert Mutation (0.025)		22	0
+150	5	Tournament selection(2)	PMX recombination (0.6)	Insert Mutation (0.025)		22.06666667	0.359010987
+150	5	Tournament selection(2)	PMX recombination (0.7)	Insert Mutation (0.025)		22	0
+150	5	Tournament selection(2)	PMX recombination (0.8)	Insert Mutation (0.025)		22	0
+150	5	Tournament selection(2)	PMX recombination (0.9)	Insert Mutation (0.025)		22	0
+150	5	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x000001AA798B5510>	Insert Mutation (0.025)		22.33333333	0.906764701
+150	5	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x000001AA79342990>	Insert Mutation (0.025)		22.66666667	1.192569588
+150	5	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x000001AA7ADD9750>	Insert Mutation (0.025)		22.73333333	1.314872195
+150	5	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x000001AA79643690>	Insert Mutation (0.025)		22.66666667	1.398411798
+150	5	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x000001AA7ACCD550>	Insert Mutation (0.025)		22.6	1.280624847
+150	5	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x000001AA79845E10>	Insert Mutation (0.025)		22.46666667	0.845905169
+150	5	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x000001AA79C1AC90>	Insert Mutation (0.025)		22.66666667	1.299572579
+150	5	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x000001AA798CC3D0>	Insert Mutation (0.025)		22.33333333	0.906764701
+150	5	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x000001AA796EEF90>	Insert Mutation (0.025)		22.6	1.280624847
+150	5	Tournament selection(2)	Recombination 3 (0.1)	Insert Mutation (0.025)		22.66666667	1.192569588
+150	5	Tournament selection(2)	Recombination 3 (0.2)	Insert Mutation (0.025)		22.73333333	1.20922381
+150	5	Tournament selection(2)	Recombination 3 (0.3)	Insert Mutation (0.025)		22.73333333	1.20922381
+150	5	Tournament selection(2)	Recombination 3 (0.4)	Insert Mutation (0.025)		22.66666667	1.192569588
+150	5	Tournament selection(2)	Recombination 3 (0.5)	Insert Mutation (0.025)		22.6	1.171893055
+150	5	Tournament selection(2)	Recombination 3 (0.6)	Insert Mutation (0.025)		22.53333333	1.146976702
+150	5	Tournament selection(2)	Recombination 3 (0.7)	Insert Mutation (0.025)		22.6	1.171893055
+150	5	Tournament selection(2)	Recombination 3 (0.8)	Insert Mutation (0.025)		22.66666667	1.192569588
+150	5	Tournament selection(2)	Recombination 3 (0.9)	Insert Mutation (0.025)		22.66666667	1.192569588

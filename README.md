@@ -1,2 +1,0 @@
-# IA
-Projeto IA

@@ -1,0 +1,28 @@
+Population size:	Max generations: 	Selection: 	Recombination: 	Mutation:		Fitness:
+500	200	Tournament selection(2)	PMX recombination (0.1)	Insert Mutation (0.025)		122
+500	200	Tournament selection(2)	PMX recombination (0.2)	Insert Mutation (0.025)		124
+500	200	Tournament selection(2)	PMX recombination (0.3)	Insert Mutation (0.025)		116
+500	200	Tournament selection(2)	PMX recombination (0.4)	Insert Mutation (0.025)		128
+500	200	Tournament selection(2)	PMX recombination (0.5)	Insert Mutation (0.025)		116
+500	200	Tournament selection(2)	PMX recombination (0.6)	Insert Mutation (0.025)		118
+500	200	Tournament selection(2)	PMX recombination (0.7)	Insert Mutation (0.025)		116
+500	200	Tournament selection(2)	PMX recombination (0.8)	Insert Mutation (0.025)		122
+500	200	Tournament selection(2)	PMX recombination (0.9)	Insert Mutation (0.025)		122
+500	200	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x0000016A9B99BE90>	Insert Mutation (0.025)		120
+500	200	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x0000016A9E281A90>	Insert Mutation (0.025)		120
+500	200	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x0000016A9D15C990>	Insert Mutation (0.025)		122
+500	200	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x0000016A9CCA0090>	Insert Mutation (0.025)		124
+500	200	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x0000016A9CF67910>	Insert Mutation (0.025)		124
+500	200	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x0000016A9CCFD710>	Insert Mutation (0.025)		124
+500	200	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x0000016A9B99BE90>	Insert Mutation (0.025)		124
+500	200	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x0000016A9CFEFFD0>	Insert Mutation (0.025)		126
+500	200	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x0000016A9CE7DE90>	Insert Mutation (0.025)		124
+500	200	Tournament selection(2)	Recombination 3 (0.1)	Insert Mutation (0.025)		124
+500	200	Tournament selection(2)	Recombination 3 (0.2)	Insert Mutation (0.025)		122
+500	200	Tournament selection(2)	Recombination 3 (0.3)	Insert Mutation (0.025)		118
+500	200	Tournament selection(2)	Recombination 3 (0.4)	Insert Mutation (0.025)		126
+500	200	Tournament selection(2)	Recombination 3 (0.5)	Insert Mutation (0.025)		138
+500	200	Tournament selection(2)	Recombination 3 (0.6)	Insert Mutation (0.025)		120
+500	200	Tournament selection(2)	Recombination 3 (0.7)	Insert Mutation (0.025)		134
+500	200	Tournament selection(2)	Recombination 3 (0.8)	Insert Mutation (0.025)		128
+500	200	Tournament selection(2)	Recombination 3 (0.9)	Insert Mutation (0.025)		128

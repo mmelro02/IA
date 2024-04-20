@@ -1,0 +1,28 @@
+Population size:	Max generations: 	Selection: 	Recombination: 	Mutation:		Fitness:
+50	5	Tournament selection(2)	PMX recombination (0.1)	Insert Mutation (0.025)		14
+50	5	Tournament selection(2)	PMX recombination (0.2)	Insert Mutation (0.025)		14
+50	5	Tournament selection(2)	PMX recombination (0.3)	Insert Mutation (0.025)		14
+50	5	Tournament selection(2)	PMX recombination (0.4)	Insert Mutation (0.025)		14
+50	5	Tournament selection(2)	PMX recombination (0.5)	Insert Mutation (0.025)		14
+50	5	Tournament selection(2)	PMX recombination (0.6)	Insert Mutation (0.025)		14
+50	5	Tournament selection(2)	PMX recombination (0.7)	Insert Mutation (0.025)		14
+50	5	Tournament selection(2)	PMX recombination (0.8)	Insert Mutation (0.025)		14
+50	5	Tournament selection(2)	PMX recombination (0.9)	Insert Mutation (0.025)		14
+50	5	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x000001AED4F4B3D0>	Insert Mutation (0.025)		14
+50	5	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x000001AED5A32950>	Insert Mutation (0.025)		14
+50	5	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x000001AED6D80E50>	Insert Mutation (0.025)		14
+50	5	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x000001AED5811DD0>	Insert Mutation (0.025)		14
+50	5	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x000001AED6DD7650>	Insert Mutation (0.025)		14
+50	5	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x000001AED6D7BED0>	Insert Mutation (0.025)		14
+50	5	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x000001AED6CBDF10>	Insert Mutation (0.025)		14
+50	5	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x000001AED5003050>	Insert Mutation (0.025)		14
+50	5	Tournament selection(2)	<ga.genetic_operators.recombination2.Recombination2 object at 0x000001AED6DFF710>	Insert Mutation (0.025)		14
+50	5	Tournament selection(2)	Recombination 3 (0.1)	Insert Mutation (0.025)		14
+50	5	Tournament selection(2)	Recombination 3 (0.2)	Insert Mutation (0.025)		14
+50	5	Tournament selection(2)	Recombination 3 (0.3)	Insert Mutation (0.025)		14
+50	5	Tournament selection(2)	Recombination 3 (0.4)	Insert Mutation (0.025)		14
+50	5	Tournament selection(2)	Recombination 3 (0.5)	Insert Mutation (0.025)		14
+50	5	Tournament selection(2)	Recombination 3 (0.6)	Insert Mutation (0.025)		14
+50	5	Tournament selection(2)	Recombination 3 (0.7)	Insert Mutation (0.025)		14
+50	5	Tournament selection(2)	Recombination 3 (0.8)	Insert Mutation (0.025)		14
+50	5	Tournament selection(2)	Recombination 3 (0.9)	Insert Mutation (0.025)		14
